@@ -1,0 +1,32 @@
+# 2023 - AVR - Intro To Unity
+
+## Overview 
+This repository contains Unity samples used to learn core Unity 
+elements (events, states, animation, input) for this module.
+
+## Useful 
+- [Markdown](https://docs.github.com/en/enterprise-cloud@latest/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) in GitHub
+- Add emojis with [gitmoji](https://gitmoji.dev/) to your Git commits to improve readability
+
+## Additional Reading 
+- [Three Ways to Architect Your Game With Scriptableobjects](https://unity.com/how-to/architect-game-code-scriptable-objects)
+
+## Table of Contents - Examples 
+| Topic | Description | Additional Reading |
+| :---------------- | :--------------- | :--------------- | 
+| Exercise 1 - Scriptable Objects | Sharing variables across multiple game objects using ScriptableObjects (SOs) | See RotationBehaviour and Variables in Common/Scripts/ScriptableObjects |
+| Exercise 2 - Selecting Objects  & Design Patterns | Writing a better SelectionManager using Design Patterns (Abstract Factory, Strategy) | See SelectionManager and SimpleSelectionManager |
+
+## Table of Contents - Design Patterns 
+| Topic | Description | Additional Reading |
+| :---------------- | :--------------- | :--------------- | 
+| Abstract Factory | Using the Abstract Factory pattern to make interchangeable components | [Abstract Factory](https://refactoring.guru/design-patterns/abstract-factory) |
+| Strategy | Using the Strategy pattern to separate interchangeable algorithms into components accessed through a context | [Strategy](https://refactoring.guru/design-patterns/strategy) |
+
+### To Do - Week 3
+- [ ] Scriptable Objects - Add a demo to demonstrate a centrally modified game variable
+- [ ] Scriptable Objects - Add a local/remote reference variable demo
+- [ ] Scriptable Objects - Add a framework for interactable, consumable, game, and level data
+- [ ] Add a SimpleSelectionManager as a starting point to discuss Abstract Factory and Strategy patterns
+- [ ] Apply the two patterns to make an improved SelectionManager
+ 
