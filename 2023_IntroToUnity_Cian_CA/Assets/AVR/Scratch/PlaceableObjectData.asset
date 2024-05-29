@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c52ca1f63190a8a47bd54fa3fa815147, type: 3}
+  m_Name: PlaceableObjectData
+  m_EditorClassIdentifier: 
+  Description: Trebuchet
+  Type: 7
+  AttackClip:
+  - {fileID: 8300000, guid: 2d49e7e2340f2194c8592251811e08c3, type: 3}
+  - {fileID: 8300000, guid: 69e5dbe99496a1f42a7bce64cae40f5e, type: 3}
+  - {fileID: 8300000, guid: 0a8c308d27486a84eb5fa846a4a98789, type: 3}
+  DieClip:
+  - {fileID: 8300000, guid: 3bca17813cc2dfb419470b44b6230849, type: 3}
+  - {fileID: 8300000, guid: fc83f54703e697f429b066dd1cc6f5be, type: 3}
+  - {fileID: 8300000, guid: d13d909cce7611d44b1d7c361733601d, type: 3}
+  IsOffensive: 1
+  TargetType: 1
+  AttackType: 1
+  DamagePerAttack: 73
+  AttackRange: 92
+  AttackRateSecs: 4.5
+  MoveSpeed: 0
+  StrafeSpeed: 0
+  RotateSpeed: 0

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9caca661463c8cf4f933fdd975139d0c, type: 3}
+  m_Name: Small Ammo Pack
+  m_EditorClassIdentifier: 
+  UniqueId: 77479922-209d-4ea5-8c98-2c5170e7b66e
+  LastUpdated: 15/11/23 09:27:23
+  LastUpdatedBy: NMCG
+  Notes: 
+  Description: Small ammo pack
+  Type: 0
+  uiIconEmpty: {fileID: 0}
+  uiIconNormal: {fileID: 0}
+  uiIconFilled: {fileID: 0}
+  PickupClip: {fileID: 0}
+  UseClip: {fileID: 0}
+  DropClip: {fileID: 0}
+  LivesForSecs: 0
+  RespawnEverySecs: 0
+  buffs:
+  - Attribute: 1
+    Value: 50
+  ApplyPolicy: 0

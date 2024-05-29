@@ -1,0 +1,150 @@
+{
+    "name": "My New Player",
+    "maps": [
+        {
+            "name": "Driving Controls",
+            "id": "c6ae14b5-1b88-4bb1-8fd9-4f9cfa537f76",
+            "actions": [
+                {
+                    "name": "SelectWeapon",
+                    "type": "Button",
+                    "id": "7004c071-5712-487a-99d2-94150df25897",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "SwimUp",
+                    "type": "Button",
+                    "id": "6eeeaade-ef74-4d5f-8e1d-b170d388f632",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Dive",
+                    "type": "Button",
+                    "id": "51c23890-91ef-42e0-9757-0f9386745447",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Accelerate",
+                    "type": "Button",
+                    "id": "7fbd55b4-eca2-4dcb-a34b-3b020ba5aad2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "773dac3f-975b-49f2-bfcc-ede938500675",
+                    "path": "<Mouse>/middleButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SelectWeapon",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fe65759b-cd4f-4f23-8044-3489bc5ac17e",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SwimUp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d348105e-31ac-483c-b573-c121f270b445",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Dive",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2e200aaf-2684-4bf5-929a-e5c83bbd79af",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Accelerate",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Swimming Controls",
+            "id": "6094ebf1-60dc-4347-99b7-901e88c4a47f",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "05dd3802-8040-4e9b-b7cb-352cc043acb1",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "43febf98-f22a-432d-bc03-9501e4aa611e",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Logitect Steering Controls",
+            "id": "f899a1c2-d1e6-45dd-933b-7c2a7d72c2f5",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "deafaf4b-d562-462a-8bd1-e0137945c095",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "58478560-51a4-4ec0-97c5-f424e4ec9b3e",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
